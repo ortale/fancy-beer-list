@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fancy Beer List</string>
+
+    <string name="view_helper_error_title">Error</string>
+    <string name="view_helper_error_message">An error has occurred on trying to update beer list from the server. Please try again later.</string>
+
+    <string name="beer_detail_name">Name: </string>
+    <string name="beer_detail_strength">Strength: </string>
+    <string name="beer_detail_description">Description: </string>
+    <string name="beer_detail_food_pairing">Food Pairing: </string>
+</resources>

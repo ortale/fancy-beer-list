@@ -1,0 +1,12 @@
+uk.co.joseortale.fancybeerlist
+uk.co.joseortale.fancybeerlist.data.Helpers
+uk.co.joseortale.fancybeerlist.data.api.endpoints
+uk.co.joseortale.fancybeerlist.data.api.library
+uk.co.joseortale.fancybeerlist.data.database
+uk.co.joseortale.fancybeerlist.model
+uk.co.joseortale.fancybeerlist.view.activities
+uk.co.joseortale.fancybeerlist.view.adapters
+uk.co.joseortale.fancybeerlist.view.fragments
+uk.co.joseortale.fancybeerlist.view.helpers
+uk.co.joseortale.fancybeerlist.view.interfaces
+uk.co.joseortale.fancybeerlist.viewmodel
